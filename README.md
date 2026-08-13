@@ -25,6 +25,16 @@ The objective is to transform raw transactional data into meaningful business in
 
 ---
 
+## ⚠️ Dataset Disclaimer
+
+The dataset used in this project is a sample retail dataset intended for educational and analytical purposes.
+
+It does not represent confidential or proprietary data from a real company.
+
+The business scenario, analytical workflow, KPIs, visualizations, and insights were developed as part of an independent Data Analyst portfolio project to demonstrate practical data analysis skills using Python.
+
+---
+
 ## 🚀 Project Objectives
 
 The project aims to:
