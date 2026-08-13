@@ -1,0 +1,54 @@
+
+SUPERSTORE BUSINESS ANALYTICAL REPORT
+=====================================
+
+1. EXECUTIVE KPIs
+-----------------
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Total Orders: 5,009
+Total Customers: 793
+Overall Profit Margin: 12.47%
+Average Order Value: $458.61
+Average Shipping Duration: 3.96 days
+
+
+2. PERFORMANCE HIGHLIGHTS
+-------------------------
+Best Region by Profit: West
+Best Category by Profit: Technology
+Top Product by Sales: Canon imageCLASS 2200 Advanced Copier
+Top Customer by Sales: Sean Miller
+
+
+3. STATISTICAL INSIGHTS
+-----------------------
+Sales-Profit Correlation: 0.48
+Discount-Profit Correlation: -0.22
+
+
+4. OUTLIER SUMMARY
+------------------
+Sales Outliers: 1,167
+Quantity Outliers: 170
+Discount Outliers: 856
+Profit Outliers: 1,881
+
+
+5. BUSINESS INTERPRETATION
+--------------------------
+The analysis evaluates sales, profitability, customer behavior,
+product performance, regional performance, shipping operations,
+discount impact, and time-based trends.
+
+Statistical outliers were identified for investigation but were
+not automatically removed because an outlier does not necessarily
+represent a data quality error.
+
+Higher discount levels show a negative association with profit
+in the analyzed dataset. This relationship should be interpreted
+as an association rather than a causal relationship.
+
+High sales performance does not always indicate high profitability.
+Therefore, both revenue and profit should be considered when
+evaluating customers, products, categories, and regions.
