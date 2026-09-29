@@ -437,13 +437,3 @@ The project demonstrates practical experience in:
 The final solution provides a reusable analytical workflow that can support business performance monitoring and data-driven decision-making.
 
 ---
-
-## 👤 Author
-
-**Ziad Mahmoud**
-
-Data Analyst | Python • SQL • Excel • Power BI
-
-### Skills Demonstrated
-
-Python • Pandas • NumPy • SQL • Excel • Data Cleaning • EDA • Statistical Analysis • Data Visualization • Business Analysis
